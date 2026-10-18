@@ -1,5 +1,6 @@
 [README.md](https://github.com/user-attachments/files/33625958/README.md)
-# Mingyue-Team# 明月战队参赛机器人文档
+## 明月战队
+明月战队参赛机器人文档
 
 战队成员：金添、刘雨晨、宋康雨、赵雪江、肖昊宇。
 
